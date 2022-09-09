@@ -1,0 +1,15 @@
+C:\Users\Mari\Projeto1\INF099\PrimeiroExemplo\bin\Debug\net6.0\PrimeiroExemplo.exe
+C:\Users\Mari\Projeto1\INF099\PrimeiroExemplo\bin\Debug\net6.0\PrimeiroExemplo.deps.json
+C:\Users\Mari\Projeto1\INF099\PrimeiroExemplo\bin\Debug\net6.0\PrimeiroExemplo.runtimeconfig.json
+C:\Users\Mari\Projeto1\INF099\PrimeiroExemplo\bin\Debug\net6.0\PrimeiroExemplo.dll
+C:\Users\Mari\Projeto1\INF099\PrimeiroExemplo\bin\Debug\net6.0\PrimeiroExemplo.pdb
+C:\Users\Mari\Projeto1\INF099\PrimeiroExemplo\obj\Debug\net6.0\PrimeiroExemplo.csproj.AssemblyReference.cache
+C:\Users\Mari\Projeto1\INF099\PrimeiroExemplo\obj\Debug\net6.0\PrimeiroExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mari\Projeto1\INF099\PrimeiroExemplo\obj\Debug\net6.0\PrimeiroExemplo.AssemblyInfoInputs.cache
+C:\Users\Mari\Projeto1\INF099\PrimeiroExemplo\obj\Debug\net6.0\PrimeiroExemplo.AssemblyInfo.cs
+C:\Users\Mari\Projeto1\INF099\PrimeiroExemplo\obj\Debug\net6.0\PrimeiroExemplo.csproj.CoreCompileInputs.cache
+C:\Users\Mari\Projeto1\INF099\PrimeiroExemplo\obj\Debug\net6.0\PrimeiroExemplo.dll
+C:\Users\Mari\Projeto1\INF099\PrimeiroExemplo\obj\Debug\net6.0\refint\PrimeiroExemplo.dll
+C:\Users\Mari\Projeto1\INF099\PrimeiroExemplo\obj\Debug\net6.0\PrimeiroExemplo.pdb
+C:\Users\Mari\Projeto1\INF099\PrimeiroExemplo\obj\Debug\net6.0\PrimeiroExemplo.genruntimeconfig.cache
+C:\Users\Mari\Projeto1\INF099\PrimeiroExemplo\obj\Debug\net6.0\ref\PrimeiroExemplo.dll
